@@ -1,5 +1,3 @@
-package Data_Structures;
-
 public class Heart_Diamond {
 	public static void main(String[] args) {
 	
